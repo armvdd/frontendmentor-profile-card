@@ -59,8 +59,9 @@ h2{
     border-radius: 50%;
     border: #ffffff solid 4px;
     position: absolute;
-    top: 115px;
-    left: 150px;
+    top: 65%;
+    bottom: 50%;
+    left: 35%;
 }
 
 h1{
